@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajsharma7352&label=Profile%20views&color=0e75b6&style=flat" alt="pankajsharma7352" /> </p>
 
-- 🌱 I’m currently learning **Hibernate, Spring boot**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Java, HTML, CSS, JavaScript,**
+- 💬 Ask me about **Python, HTML, CSS, JavaScript,**
 
-- 📫 How to reach me **pankajsharma7352@gmail.com**
+- 📫 How to reach me **krishnamohansingh605@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
